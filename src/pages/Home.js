@@ -48,7 +48,7 @@ const Home = () => {
         </p>
 
         <h1 className="hero-title">
-          Look Elegant.
+          Look Beautiful.
           <br />
           Feel Confident.
         </h1>
