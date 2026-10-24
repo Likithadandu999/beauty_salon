@@ -14,7 +14,7 @@ const About = () => {
           </h1>
 
           <p className="text-muted">
-            We believe every person deserves to feel beautiful and confident.
+            We believe every person deserves to feel beautiful .
           </p>
         </div>
 
